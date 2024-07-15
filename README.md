@@ -3,7 +3,7 @@
 <!-- Day1: Variables and Data Types -->
 
 ## Learning Achievement:
-By the end of Day1 Challenge, I understand:
+After Completed Day1 Challenge, I understand:
 - Declaration of variables using `var`, `let`, and `const` keyword.
 - Premitive and non-premitive data types in JavaScript.
 - Array is an object type datatype in Javascript because they have properites and methods like regular objects in JS.
@@ -17,4 +17,9 @@ By the end of Day1 Challenge, I understand:
    - Type Error: Re-assignment to a constant variable.
 
 
- 
+ <!-- Day2: Operators -->
+
+## Learning Achievement:
+After Completed Day2 Challenge, I understand:
+- Basic `Arithmetic`,`logical` and `comparison` Operators
+- difference between `==` and `===` when comparing variable values.
